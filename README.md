@@ -1,4 +1,4 @@
-# Olá! Eu sou Fellyipe, estudante na área de programação  
+# Olá! Eu sou Fellyipe
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fellyipe&show_icons=true&theme=gruvbox)
   
