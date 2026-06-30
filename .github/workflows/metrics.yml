@@ -19,12 +19,11 @@ jobs:
 
           user: Fellyipe
           template: classic
-          filename: profiles/github-metrics.svg
+          filename: profile/github-metrics.svg
           base: ""
           config_common: '{"css": ".footer { display: none; }"}'
           
           plugin_languages: yes
-          plugin_languages_ignored: html, css, game-maker-language, c++
-          plugin_languages_skipped: Roca-express_App
+          plugin_languages_ignored: html, css, game maker language, c++, php
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
